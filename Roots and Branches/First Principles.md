@@ -8,4 +8,4 @@
 
 ### Keep Growing
 
-##### [Enter the garden...](My%20Digital%20Garden)
+##### [Enter the garden...](/notes/My%20Digital%20Garden)
